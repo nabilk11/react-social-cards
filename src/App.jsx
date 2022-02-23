@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { SocialCard } from './components/SocialCard';
+import { SocialCard } from './components/SocialCard/SocialCard';
 import './App.css';
 
 function App() {
